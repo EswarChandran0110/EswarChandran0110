@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eswar M</h1>
 <h3 align="center">A passionate Fullstack Web developer from India</h3>
 
-- 🔭 I’m currently working on **Fiverr MERN Clone**
+- 🔭 I’m currently working on building **DATAMESH**
 
-- 🌱 I’m currently learning **Typescript,Next.js**
+- 🌱 I’m currently learning building a **Online Code Judge**
 
-- 💬 Ask me about **React.js,Node.js,MongoDB,Express.js**
+- 💬 Ask me about **React.js,Node.js,MongoDB,Express.js,JAVA, Springboot, Postgresql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
